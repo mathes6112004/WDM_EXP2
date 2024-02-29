@@ -53,5 +53,14 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+##### Buying:
+![image](https://github.com/mathes6112004/WDM_EXP2/assets/119477782/790f016b-36c1-48cc-ac15-8e83dc2080fb)
+
+##### Banking:
+![image](https://github.com/mathes6112004/WDM_EXP2/assets/119477782/e1ad0058-7947-438b-9f55-a954a1750353)
+
+##### Employee:
+![image](https://github.com/mathes6112004/WDM_EXP2/assets/119477782/7ac4947f-4de0-4767-882f-48535c3b65fd)
 
 ### RESULT: 
+Thus this program has been successfully executed.
